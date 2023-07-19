@@ -18,13 +18,13 @@
    - Design an efficient network communication system, considering issues such as latency, reliability, and concurrent access.
 4. Programming Language: C++
 5. Resources:
-   - Online tutorial: Boost Asio Tutorial
+   - Online tutorial: [Boost Asio Tutorial](https://www.boost.org/doc/libs/1_77_0/doc/html/boost_asio/tutorial.html)
    - Online course: "C++ Sockets: From Zero to Hero" on Udemy
    - Books:
        - "TCP/IP Sockets in C: Practical Guide for Programmers" by Michael J. Donahoo and Kenneth L. Calvert
        - “High-Performance Browser Networking” by Ilya Grigorik
-   - Online Resources: Boost.Asio, ZeroMQ, Intel DPDK
-   - GitHub Repos: asio, nanomsg, [EXTRA] libuv
+   - Online Resources: [Boost.Asio](https://www.boost.org/doc/libs/1_77_0/doc/html/boost_asio.html), [ZeroMQ](https://zeromq.org), [Intel DPDK](https://www.dpdk.org)
+   - GitHub Repos: [asio](https://github.com/chriskohlhoff/asio), [nanomsg](https://github.com/nanomsg/nanomsg), [EXTRA] [libuv](https://github.com/libuv/libuv)
    - [EXTRA]
       - Online course:  "C++ High-Performance Computing" on Udemy
       - Book: "Linux Socket Programming by Example" by Warren W. Gay
